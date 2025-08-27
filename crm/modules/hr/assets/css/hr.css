@@ -1,0 +1,12 @@
+.payroll-flex{
+  display: flex;
+}
+
+.payroll-col{
+  flex: 1;
+  padding: 1em;
+}
+
+.payslip_row {
+  height: 56px;
+}

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "gerardojbaez/money": "^0.3.1",
+        "mollie/mollie-api-php": "^2.10",
+        "phpmyadmin/sql-parser": "^5.2",
+        "dompdf/dompdf": "^2.0"
+    }
+}
